@@ -14,7 +14,6 @@
   },
   "scripts": {
     "test": "jest lib/tests"
-    
   },
   "repository": {
     "type": "git",
@@ -24,7 +23,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-  "url": "https://github.com/jenho-webdev/SVG_Logo_Maker/issues"
+    "url": "https://github.com/jenho-webdev/SVG_Logo_Maker/issues"
   },
   "homepage": "https://github.com/jenho-webdev/SVG_Logo_Maker#readme"
 }

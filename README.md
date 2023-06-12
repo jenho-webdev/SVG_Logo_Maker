@@ -65,9 +65,9 @@ The tests verify the rendering functionality of the Circle, Triangle, and Square
 
 You can find the sample logo .svg file and an image of the logo under the [examples folder of the repo](./examples/)
 
-You can find a video walkthrough of the applocation [Here](https://www.youtube.com/watch?v=AaQLn6LbFWY).
-<https://www.youtube.com/watch?v=tbd>
-<!-- TODO:update youtube url once video is uploaded -->
+You can find a video walkthrough of the applocation [Here](https://youtu.be/AniXzLFnRGI).
+<https://youtu.be/AniXzLFnRGI>
+
 ## License
 
 This project is licensed under the [![MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://github.com/jenho-webdev/svg_logo_maker/blob/main/LICENSE)
