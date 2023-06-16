@@ -47,8 +47,8 @@ Generate a logo with the text " UCI" in white color and a blue square shape:
 - Enter up to three characters: UCI
 - Enter the text color (keyword or hexadecimal number): white
 - Choose a shape: Square
+- Enter the shape color (keyword or hexadecimal number): Blue
 
-Enter the shape color (keyword or hexadecimal number): red
 ![sample logo](examples/UCI_TXT_WHITE_SQ_BLUE_SVG_LOGO.png)
 
 ## Testing
@@ -93,7 +93,7 @@ Contributions to SVG Logo Maker are welcome! If you would like to contribute to 
 
 ## Credits
 
-SVG Logo Maker was created by me as part a coding challenge for the UCI Full Stack bootcamp course assignment related to topics related to OOP, node js., unit testing and more.
+SVG Logo Maker was created by me as part a coding challenge for the UCI Full Stack bootcamp course assignment related to topics on OOP, node js., unit testing and more.
 
 The development of this program was supported by the course materials and resources provided by the bootcamp.
 
